@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\bin\Debug\net6.0\KonsolUygulama2.exe
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\bin\Debug\net6.0\KonsolUygulama2.deps.json
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\bin\Debug\net6.0\KonsolUygulama2.runtimeconfig.json
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\bin\Debug\net6.0\KonsolUygulama2.dll
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\bin\Debug\net6.0\KonsolUygulama2.pdb
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\obj\Debug\net6.0\KonsolUygulama2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\obj\Debug\net6.0\KonsolUygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\obj\Debug\net6.0\KonsolUygulama2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\obj\Debug\net6.0\KonsolUygulama2.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\obj\Debug\net6.0\KonsolUygulama2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\obj\Debug\net6.0\KonsolUygulama2.dll
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\obj\Debug\net6.0\refint\KonsolUygulama2.dll
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\obj\Debug\net6.0\KonsolUygulama2.pdb
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\obj\Debug\net6.0\KonsolUygulama2.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\KonsolUygulama2\KonsolUygulama2\obj\Debug\net6.0\ref\KonsolUygulama2.dll
